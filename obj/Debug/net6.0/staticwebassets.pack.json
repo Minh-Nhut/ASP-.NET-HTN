@@ -1,0 +1,1757 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\css\\chat.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\chat.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\css\\sb-admin-2.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\sb-admin-2.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\css\\sb-admin-2.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\sb-admin-2.min.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\img\\avatar\\avatar-2211048948.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatar\\avatar-2211048948.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\img\\promotion.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\promotion.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\img\\undraw_posting_photo.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\undraw_posting_photo.svg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\img\\undraw_profile.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\undraw_profile.svg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\img\\undraw_profile_1.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\undraw_profile_1.svg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\img\\undraw_profile_2.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\undraw_profile_2.svg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\img\\undraw_profile_3.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\undraw_profile_3.svg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\img\\undraw_rocket.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\undraw_rocket.svg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\js\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\js\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\js\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\js\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\js\\sb-admin-2.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\sb-admin-2.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\js\\sb-admin-2.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\sb-admin-2.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\scss\\_cards.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\scss\\_charts.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_charts.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\scss\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\scss\\_error.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_error.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\scss\\_global.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_global.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\scss\\_login.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_login.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\scss\\_navs.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_navs.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\scss\\navs\\_global.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\navs\\_global.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\scss\\navs\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\navs\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\scss\\navs\\_topbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\navs\\_topbar.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\scss\\sb-admin-2.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\sb-admin-2.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\scss\\utilities\\_animation.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\utilities\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\scss\\utilities\\_border.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\utilities\\_border.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\scss\\utilities\\_progress.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\utilities\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\scss\\utilities\\_rotate.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\utilities\\_rotate.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\chart.js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\chart.js\\Chart.bundle.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\chart.js\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\chart.js\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\chart.js\\Chart.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\chart.js\\Chart.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\datatables\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\datatables\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\datatables\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\datatables\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\datatables\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\datatables\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\datatables\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\datatables\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\datatables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\datatables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\jquery-easing\\jquery.easing.compatibility.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jquery-easing\\jquery.easing.compatibility.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\jquery-easing\\jquery.easing.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jquery-easing\\jquery.easing.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\jquery-easing\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jquery-easing\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Admin\\vendor\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\css\\FontFamily.css",
+      "PackagePath": "staticwebassets\\Client\\css\\FontFamily.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\Client\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Client\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\css\\pushbar.css",
+      "PackagePath": "staticwebassets\\Client\\css\\pushbar.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\css\\style.css",
+      "PackagePath": "staticwebassets\\Client\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\about.png",
+      "PackagePath": "staticwebassets\\Client\\img\\about.png"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\avatar-shop.jpg",
+      "PackagePath": "staticwebassets\\Client\\img\\avatar-shop.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\avatar.jpg",
+      "PackagePath": "staticwebassets\\Client\\img\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\background.jpg",
+      "PackagePath": "staticwebassets\\Client\\img\\background.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\cart-blank.png",
+      "PackagePath": "staticwebassets\\Client\\img\\cart-blank.png"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\cart-header.jpg",
+      "PackagePath": "staticwebassets\\Client\\img\\cart-header.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\default-product.jpg",
+      "PackagePath": "staticwebassets\\Client\\img\\default-product.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\default-user.jpg",
+      "PackagePath": "staticwebassets\\Client\\img\\default-user.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\fashion-1.jpg",
+      "PackagePath": "staticwebassets\\Client\\img\\fashion-1.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\fashion-2.jpg",
+      "PackagePath": "staticwebassets\\Client\\img\\fashion-2.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\fashion-3.jpg",
+      "PackagePath": "staticwebassets\\Client\\img\\fashion-3.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\logo-shop.png",
+      "PackagePath": "staticwebassets\\Client\\img\\logo-shop.png"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\logo_150.png",
+      "PackagePath": "staticwebassets\\Client\\img\\logo_150.png"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\order-blank.png",
+      "PackagePath": "staticwebassets\\Client\\img\\order-blank.png"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\page-header.jpg",
+      "PackagePath": "staticwebassets\\Client\\img\\page-header.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\review-blank.png",
+      "PackagePath": "staticwebassets\\Client\\img\\review-blank.png"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\reviews-header.jpg",
+      "PackagePath": "staticwebassets\\Client\\img\\reviews-header.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\sanpham-1.jpg",
+      "PackagePath": "staticwebassets\\Client\\img\\sanpham-1.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\sanpham-2.jpg",
+      "PackagePath": "staticwebassets\\Client\\img\\sanpham-2.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\sanpham-3.jpg",
+      "PackagePath": "staticwebassets\\Client\\img\\sanpham-3.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\sanpham-4.jpg",
+      "PackagePath": "staticwebassets\\Client\\img\\sanpham-4.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\set-1.jpg",
+      "PackagePath": "staticwebassets\\Client\\img\\set-1.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\set-2.jpg",
+      "PackagePath": "staticwebassets\\Client\\img\\set-2.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\set-3.jpg",
+      "PackagePath": "staticwebassets\\Client\\img\\set-3.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\signup-1.jpg",
+      "PackagePath": "staticwebassets\\Client\\img\\signup-1.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\signup-2.jpg",
+      "PackagePath": "staticwebassets\\Client\\img\\signup-2.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\signup-3.jpg",
+      "PackagePath": "staticwebassets\\Client\\img\\signup-3.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\img\\signup-4.jpg",
+      "PackagePath": "staticwebassets\\Client\\img\\signup-4.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Client\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\Client\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\js\\main.js",
+      "PackagePath": "staticwebassets\\Client\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\js\\pushbar.js",
+      "PackagePath": "staticwebassets\\Client\\js\\pushbar.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\Client\\lib\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\Client\\lib\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\Client\\lib\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\Client\\lib\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\Client\\lib\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\flaticon\\font\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\Client\\lib\\flaticon\\font\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\Client\\lib\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\Client\\lib\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Client\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Client\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Client\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\mail\\contact.js",
+      "PackagePath": "staticwebassets\\Client\\mail\\contact.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\mail\\contact.php",
+      "PackagePath": "staticwebassets\\Client\\mail\\contact.php"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\Client\\mail\\jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets\\Client\\mail\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\css\\chat.css",
+      "PackagePath": "staticwebassets\\css\\chat.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\css\\register-login.css",
+      "PackagePath": "staticwebassets\\css\\register-login.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\avatar\\avatar220239602.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar\\avatar220239602.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\avatar\\avatar220247465.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar\\avatar220247465.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\avatar\\avatar223148387.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar\\avatar223148387.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\avatar\\avatar223156403.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar\\avatar223156403.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\avatar\\avatar225029536.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar\\avatar225029536.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\avatar\\avatar225037852.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar\\avatar225037852.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\background.png",
+      "PackagePath": "staticwebassets\\img\\background.png"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\chân váy 1a223133344.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\chân váy 1a223133344.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\chân váy 1b223159326.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\chân váy 1b223159326.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\chân váy 1c223227348.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\chân váy 1c223227348.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\chân váy 2a223317214.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\chân váy 2a223317214.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\chân váy 2b223348476.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\chân váy 2b223348476.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\chân váy 2c223417410.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\chân váy 2c223417410.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\chân váy 3a223452257.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\chân váy 3a223452257.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\chân váy 3b223523472.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\chân váy 3b223523472.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\chân váy 3c223557939.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\chân váy 3c223557939.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\chân váy 4a223706132.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\chân váy 4a223706132.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\chân váy 4b223739979.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\chân váy 4b223739979.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\chân váy 5a223804803.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\chân váy 5a223804803.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\chân váy 5b223826985.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\chân váy 5b223826985.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\chân váy 5c223852288.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\chân váy 5c223852288.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\chân váy 6a223933148.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\chân váy 6a223933148.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\chân váy 6b224000139.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\chân váy 6b224000139.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\chân váy 6c224023273.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\chân váy 6c224023273.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\mặc nhà 1a220001399.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\mặc nhà 1a220001399.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\mặc nhà 1b220028290.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\mặc nhà 1b220028290.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\mặc nhà 1c220051154.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\mặc nhà 1c220051154.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\mặc nhà 2a220518719.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\mặc nhà 2a220518719.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\mặc nhà 2b220548530.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\mặc nhà 2b220548530.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\mặc nhà 2c220819204.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\mặc nhà 2c220819204.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\mặc nhà 3a220841921.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\mặc nhà 3a220841921.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\mặc nhà 3b220910225.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\mặc nhà 3b220910225.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\mặc nhà 3c220930908.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\mặc nhà 3c220930908.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\quần 1a221753468.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\quần 1a221753468.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\quần 1b221816133.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\quần 1b221816133.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\quần 1c222827126.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\quần 1c222827126.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\quần 2a222854137.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\quần 2a222854137.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\quần 2b223024787.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\quần 2b223024787.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\quần 2c223343050.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\quần 2c223343050.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\quần 3a224852657.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\quần 3a224852657.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\quần 3b225136885.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\quần 3b225136885.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\quần 3c225938816.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\quần 3c225938816.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo 1a224714837.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\áo 1a224714837.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo 2a225155665.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\áo 2a225155665.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo 2b225248945.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\áo 2b225248945.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo 2c225307020.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\áo 2c225307020.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo 3a225338153.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\áo 3a225338153.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo 3b225351794.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\áo 3b225351794.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo 3b225424136.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\áo 3b225424136.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo 3c225443647.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\áo 3c225443647.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo 4a225513575.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\áo 4a225513575.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo 4b225532437.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\áo 4b225532437.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo 4c225550950.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\áo 4c225550950.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo 4d225607653.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\áo 4d225607653.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo 5a225646010.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\áo 5a225646010.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo 5b225705487.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\áo 5b225705487.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo 5c225739570.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\áo 5c225739570.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo 6a220142775.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\áo 6a220142775.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo 6b220206237.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\áo 6b220206237.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 1a220301896.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 1a220301896.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 1b220322429.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 1b220322429.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 1c220357991.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 1c220357991.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 2a220430260.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 2a220430260.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 2b220449533.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 2b220449533.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 2c220507574.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 2c220507574.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 3a220537529.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 3a220537529.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 3b220601887.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 3b220601887.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 3c220623852.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 3c220623852.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 4a220657323.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 4a220657323.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 4b220742786.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 4b220742786.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 4c220803377.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 4c220803377.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 5a220848171.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 5a220848171.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 5b222032477.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 5b222032477.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 5c222102621.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 5c222102621.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 6a222159464.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 6a222159464.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 6b222231335.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 6b222231335.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 6c222259599.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 6c222259599.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 6d222325810.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 6d222325810.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 7a222408982.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 7a222408982.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 7b222442203.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 7b222442203.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 7c222511121.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 7c222511121.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 8a222604501.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 8a222604501.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 8b222631496.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 8b222631496.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 8c222700591.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 8c222700591.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 8d222842338.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 8d222842338.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 9a222930012.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 9a222930012.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 9b222953579.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 9b222953579.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\áo khoác 9c223021170.jpeg",
+      "PackagePath": "staticwebassets\\img\\products\\áo khoác 9c223021170.jpeg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\đầm 1a224050716.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\đầm 1a224050716.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\đầm 2a224144176.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\đầm 2a224144176.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\đầm 2b224233952.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\đầm 2b224233952.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\đầm 2c224355328.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\đầm 2c224355328.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\đầm 2d224445818.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\đầm 2d224445818.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\đầm 3a224832897.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\đầm 3a224832897.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\đầm 3b225444174.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\đầm 3b225444174.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\đầm 3c225509442.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\đầm 3c225509442.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\đầm 4a225541275.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\đầm 4a225541275.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\đầm 4b225606787.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\đầm 4b225606787.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\đầm 4c220412260.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\đầm 4c220412260.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\đầm 5a220445836.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\đầm 5a220445836.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\đầm 5b220505774.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\đầm 5b220505774.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\đầm 5c220607937.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\đầm 5c220607937.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\đầm 5d221031819.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\đầm 5d221031819.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\đầm 6a221109571.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\đầm 6a221109571.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\đầm 6b221200141.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\đầm 6b221200141.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\đầm 6c221236056.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\đầm 6c221236056.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\products\\đầm 6d221351433.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\đầm 6d221351433.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\reviews\\goodbye221000476.jpg",
+      "PackagePath": "staticwebassets\\img\\reviews\\goodbye221000476.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\reviews\\review221243225.jpg",
+      "PackagePath": "staticwebassets\\img\\reviews\\review221243225.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\img\\reviews\\review224310186.jpg",
+      "PackagePath": "staticwebassets\\img\\reviews\\review224310186.jpg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\js\\districts.min.js",
+      "PackagePath": "staticwebassets\\js\\districts.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\js\\brands.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\js\\regular.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\js\\solid.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\jquery-easing\\jquery.easing.compatibility.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-easing\\jquery.easing.compatibility.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\jquery-easing\\jquery.easing.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-easing\\jquery.easing.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\jquery-easing\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-easing\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Univer\\Phát triển ứng dụng\\New folder\\TracyShop\\wwwroot\\lib\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TracyShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TracyShop.props",
+      "PackagePath": "build\\TracyShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TracyShop.props",
+      "PackagePath": "buildMultiTargeting\\TracyShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TracyShop.props",
+      "PackagePath": "buildTransitive\\TracyShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
